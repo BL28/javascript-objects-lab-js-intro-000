@@ -14,5 +14,5 @@ function deleteFromObjectByKey(object, key){
 }
 
 function desctivelyUpdateObjectWithKeyandValue(object, key){
-  
+
 }
